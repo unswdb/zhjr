@@ -10275,4 +10275,27 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+
+.avatar1 {
+  vertical-align: middle;
+  width: 225px;
+  height: 180px;
+  border-radius: 50%;
+}
+
+.px-41 {
+  padding-right: 1.5rem !important;
+  padding-left: 1.5rem !important;
+}
+
+.mb-41 {
+  margin-bottom: 1.5rem !important;
+}
+
+.img-fluid1 {
+  max-width: 100%;
+  height: auto;
+}
 /*# sourceMappingURL=bootstrap.css.map */
+
